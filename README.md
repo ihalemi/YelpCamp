@@ -195,3 +195,14 @@ adding comments routes to existing routes(without loosing restfullness of app)
 
 # Fuzzy Search with Ajax
     search query using regular expressions and a custom AJAX script to display search results
+    
+# Password Reset Feature
+    implemented with nodemailer, crypto and async
+    valid email that was used during sign-up must be used to reset password
+    nodemailer will send an email through gmail with a password reset link that links to '/reset' form
+    password reset link will expiry after one hour
+
+# Campground Map Location Feature with geocoder
+    using Google Maps API to display a map in the '/show' route
+    geocoder geocodes the location of the campground added and retrieves the coordinates (latitude & longtiude)
+    
