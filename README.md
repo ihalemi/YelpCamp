@@ -159,14 +159,14 @@
     make meaningful messages in flash message
 
 # RESTFUL ROUTE STRUCTURE
-    name 	 url 	              verb 	      desc.
-    INDEX 	/campgrounds 	      GET 	    Display a list of all campgrounds
-    NEW 	/campgrounds/new 	  GET 	    Displays form to make a new campground
-    CREATE 	/campgrounds 	      POST 	    Add new campground to DB
-    SHOW 	/campgrounds/:id 	  GET 	    Shows info about one campground
-    EDIT 	/campgrounds/:id/edit GET 	    show edit form for one campground
-    UPDATE 	/campgrounds/:id 	  PUT 	    update a particular campground then redirect somewhere
-    DELETE 	/campgrounds/:id 	  DELETE 	delete a particular campground then redirect somewhere
+    name 	 url 	                verb 	      desc.
+    INDEX 	/campgrounds 	        GET 	    Display a list of all campgrounds
+    NEW 	/campgrounds/new 	    GET 	    Displays form to make a new campground
+    CREATE 	/campgrounds 	        POST 	    Add new campground to DB
+    SHOW 	/campgrounds/:id 	    GET 	    Shows info about one campground
+    EDIT 	/campgrounds/:id/edit   GET 	    show edit form for one campground
+    UPDATE 	/campgrounds/:id 	    PUT 	    update a particular campground then redirect somewhere
+    DELETE 	/campgrounds/:id 	    DELETE 	    delete a particular campground then redirect somewhere
 
 adding comments routes to existing routes(without loosing restfullness of app)
 
