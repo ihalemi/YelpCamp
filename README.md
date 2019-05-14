@@ -158,7 +158,7 @@
     Add bootstrap alerts to header
     make meaningful messages in flash message
 
-# RESTFUL ROUTE STRUCTURE
+# RESTful Route Structure
     name 	 url 	                verb 	      desc.
     INDEX 	/campgrounds 	        GET 	    Display a list of all campgrounds
     NEW 	/campgrounds/new 	    GET 	    Displays form to make a new campground
