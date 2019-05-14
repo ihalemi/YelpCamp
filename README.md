@@ -14,7 +14,7 @@
 # Layout and Basic Styling
 
     Create our header and footer partials
-    Add in Bootstrap
+    Add in Bootstrap 4
 
 # Creating New Campgrounds
 
@@ -188,6 +188,8 @@ adding comments routes to existing routes(without loosing restfullness of app)
     adding meta tag for theme-color.
     meta name="theme-color" content = "#222" - it is observed in chrome 39 for android mobile only
     add other necessary meta tags author,description and keywords .
+
+# Deployed to Heroku with MongoDB Atlas for Data Persistance
   
 # Time since created with Moment.js
     add a time stamp when a campground is created
