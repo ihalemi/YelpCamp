@@ -194,4 +194,4 @@ adding comments routes to existing routes(without loosing restfullness of app)
     add a time stamp when a comment is added
 
 # Fuzzy Search with Ajax
-
+    search query using regular expressions and a custom AJAX script to display search results
