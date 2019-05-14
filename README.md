@@ -1,4 +1,4 @@
-# YelpCamp - https://camp-yelp2019.herokuapp.com/campgrounds
+# YelpCamp - https://camp-yelp2019.herokuapp.com/
 
 
 # Initial Setup
