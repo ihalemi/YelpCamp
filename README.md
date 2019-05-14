@@ -188,4 +188,10 @@ adding comments routes to existing routes(without loosing restfullness of app)
     adding meta tag for theme-color.
     meta name="theme-color" content = "#222" - it is observed in chrome 39 for android mobile only
     add other necessary meta tags author,description and keywords .
+  
+# Time since created with Moment.js
+    add a time stamp when a campground is created
+    add a time stamp when a comment is added
+
+# Fuzzy Search with Ajax
 
