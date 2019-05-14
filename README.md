@@ -194,6 +194,7 @@ adding comments routes to existing routes(without loosing restfullness of app)
     add a time stamp when a comment is added
 
 # Fuzzy Search with Ajax
+    user can fuzzy search for campground names and results will display asynchronously 
     search query using regular expressions and a custom AJAX script to display search results
     
 # Password Reset Feature
